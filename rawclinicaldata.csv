@@ -1,0 +1,101 @@
+Patient_id,Age,Sex, Treatment_group,Visit,SBP,DBP,AE,AE_Severity,Outcome
+101,56,Female,Drug,Visit1,135,85,N,.,Improved
+102,69,Female,Placebo,Visit1,140,90,Y,Mild,No change
+103,46,Female,Drug,Visit2,122,72,N,Moderate,Improved
+104,32,Female,Placebo,Visit1,128,82,Y,Mild,Improved
+105,60,Male,Drug,Visit2,138,84,N,Moderate,No change
+106,25,Female,Drug,Visit1,136,88,Y,Mild,Improved
+107,78,Male,Placebo,Visit1,142,90,N,Moderate,Improved
+108,38,Female,Placebo,Visit1,126,82,N,Mild,No change
+109,56,Female,Drug,Visit2,134,68,Y,Moderate,No change
+110,75,Male,Placebo,Visit1,140,78,N,Moderate,No change
+111,36,Female,Drug,Visit2,136,66,Y,Mild,Improved
+112,40,Male,Placebo,Visit1,144,82,Y,Mild,No change
+113,28,Female,Drug,Visit2,142,76,N,Moderate,Improved
+114,28,Female,Drug,Visit1,138,78,Y,Mild,No change
+115,41,Male,Placebo,Visit2,128,80,N,Moderate,Improved
+116,70,Female,Drug,Visit1,116,72,N,Mild,No change
+117,53,Male,Placebo,Visit1 ,114,80,Y,Moderate,No change
+118,57,Female,Drug,Visit2,126,74,N,Mild,Improved
+119,41,Male,Placebo,Visit1,128,80,Y,Moderate,No change
+120,20,Male,Drug,Visit2,140,90,N,Mild,Improved
+121,39,Female,Placebo,Visit1,142,84,Y,Moderate,No change
+122,70,Female,Drug,Visit2,136,88,N,Mild,Improved
+123,19,Male,Placebo,Visit1,142,90,Y,Moderate,No change
+124,41,Female,Drug,Visit1,126,82,N,Moderate,Improved
+125,61,Female,Placebo,Visit2,134,68,N,Mild,No change
+126,47,Female,Drug,Visit2,140,78,Y,Moderate,Improved
+127,55,Male,Placebo,Visit1,136,66,N,Moderate,No change
+128,19,Male,Drug,Visit2,144,82,N,Mild,Improved
+129,77,Male,Placebo,Visit1,142,76,N,Moderate,No change
+130,38,Male,Drug,Visit1,138,78,Y,Mild,Improved
+131,50,Male,Placebo,Visit2,128,80,N,Moderate,No change
+132,29,Male,Drug,Visit1,116,72,Y,Mild,Improved
+133,75,Male,Placebo,Visit2,114,80,N,Moderate,No change
+134,39,Male,Drug,Visit1,126,74,Y,Mild,Improved
+135,78,Male,Placebo,Visit2,134,70,N,Moderate,No change
+136,61,Female,Drug,Visit1,135,85,Y,Mild,Improved
+137,42,Male,Placebo,Visit1,140,90,N,Moderate,No change
+138,66,Female,Drug,Visit2,122,72,Y,Mild,Improved
+139,44,Female,Placebo,Visit1,128,82,N,Moderate,No change
+140,76,Female,Drug,Visit2,138,84,Y,.,Improved
+141,59,Male,Placebo,Visit1,136,88,N,Mild,No change
+142,45,Male,Drug,Visit2,142,90,N,Moderate,Improved
+143,77,Male,Drug,Visit1,126,82,N,.,Improved
+144,33,Male,Placebo,Visit2,134,68,Y,Mild,No change
+145,32,Female,Drug,Visit1,140,78,N,Moderate,Improved
+146,79,Male,Placebo,Visit1 ,136,66,Y,Mild,No change
+147,79,Male,Drug,Visit2,144,82,N,Moderate,Improved
+148,64,Male,Placebo,Visit1,142,76,Y,Moderate,No change
+149,79,Male,Drug,Visit2,138,78,N,Mild,Improved
+150,68,Male,Placebo,Visit1,128,80,N,Mild,No change
+151,61,Female,Drug,Visit2,116,72,Y,Moderate,Improved
+152,72,Male,Placebo,Visit1,114,80,N,Mild,No change
+153,69,Female,Drug,Visit1,126,74,Y,Moderate,Improved
+154,74,Male,Placebo,Visit2,128,80,Y,Mild,No change
+155,20,Female,Drug,Visit2,140,90,N,Moderate,Improved
+156,54,Male,Placebo,Visit1,142,84,Y,Mild,Improved
+157,68,Male,Drug,Visit2,114,80,N,Moderate,No change
+158,24,Female,Placebo,Visit1,126,74,N,Mild,Improved
+159,38,Female,Drug,Visit1,134,70,Y,Moderate,Improved
+160,26,Female,Placebo,Visit2,135,85,N,Mild,No change
+161,56,Male,Drug,Visit1,140,90,Y,Moderate,Improved
+162,35,Female,Placebo,Visit2,142,76,N,Mild,No change
+163,21,Male,Drug,Visit1,138,78,Y,Moderate,Improved
+164,42,Male,Placebo,Visit2,128,80,N,Mild,No change
+165,77,Female,Drug,Visit1,116,72,Y,Moderate,Improved
+166,31,Female,Placebo,Visit1,114,80,N,.,No change
+167,67,Male,Drug,Visit2,126,74,N,Mild,Improved
+168,75,Male,Placebo,Visit1,134,70,Y,Mild,No change
+169,26,Female,Drug,Visit2,135,85,N,.,Improved
+170,43,Female,Placebo,Visit1,140,90,N,Moderate,No change
+171,70,Female,Drug,Visit2,122,72,N,Moderate,Improved
+172,19,Male,Placebo,Visit1,128,82,Y,Mild,No change
+173,37,Male,Placebo,Visit2,138,84,N,Moderate,Improved
+174,45,Male,Drug,Visit1,136,88,Y,Mild,No change
+175,64,Male,Placebo,Visit1 ,142,90,N,Moderate,Improved
+176,77,Male,Drug,Visit2,126,82,Y,Mild,No change
+177,24,Male,Drug,Visit1,134,68,N,Moderate,Improved
+178,61,Female,Placebo,Visit2,140,78,Y,Mild,No change
+179,78,Male,Drug,Visit1,136,66,N,Moderate,Improved
+180,25,Male,Placebo,Visit2,144,82,Y,Mild,No change
+181,64,Male,Drug,Visit1,142,76,N,Moderate,Improved
+182,52,Female,Placebo,Visit1,138,78,Y,Mild,No change
+183,31,Male,Placebo,Visit2,128,80,N,Moderate,Improved
+184,34,Male,Drug,Visit2,116,72,N,Mild,No change
+185,53,Female,Drug,Visit1,114,80,N,Moderate,Improved
+186,67,Male,Placebo,Visit2,126,74,Y,Mild,No change
+187,57,Male,Drug,Visit1,128,80,N,Moderate,Improved
+188,21,Male,Placebo,Visit1,140,90,Y,Mild,No change
+189,19,Male,Drug,Visit2,142,84,N,Moderate,Improved
+190,79,Male,Placebo,Visit1,114,80,Y,Mild,No change
+191,23,Female,Drug,Visit2,126,74,N,Moderate,Improved
+192,71,Female,Placebo,Visit1,134,70,N,Mild,No change
+193,59,Female,Drug,Visit2,135,85,Y,Mild,Improved
+194,21,Male,Placebo,Visit1,140,90,N,Moderate,No change
+195,71,Male,Drug,Visit2,144,82,Y,.,Improved
+196,46,Male,Placebo,Visit2,142,76,Y,Mild,No change
+197,35,Female,Drug,Visit1,138,78,N,Moderate,Improved
+198,43,Male,Placebo,Visit2,128,80,Y,Moderate,No change
+199,61,Male,Drug,Visit1,116,72,N,Mild,Improved
+200,51,Female,Placebo,Visit1,114,80,N,Moderate,No change
